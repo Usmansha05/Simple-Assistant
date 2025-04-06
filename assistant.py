@@ -1,5 +1,4 @@
 import streamlit as st
-from duckduckgo_search import DDGS
 import markdown
 import re
 import random
